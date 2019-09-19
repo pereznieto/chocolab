@@ -1,16 +1,14 @@
 .nav {
-  .title {
+  .link {
     margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease-in-out;
 
-    a {
-      color: white;
-      text-decoration: none;
-      border-bottom: 3px solid transparent;
-      transition: all 0.3s ease-in-out;
-
-      &:hover {
-        border-color: white;
-      }
+    &:hover,
+    &.selected {
+      border-color: white;
     }
   }
 }

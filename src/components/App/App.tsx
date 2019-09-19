@@ -1,14 +1,14 @@
 import { Container } from '@material-ui/core';
 import React from 'react';
-import styles from './App.module.scss';
-import Nav from '../Nav/Nav';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
-import Home from '../Home/Home';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Facts from '../Facts/Facts';
+import Home from '../Home/Home';
+import Nav from '../Nav/Nav';
+import styles from './App.module.scss';
 
 const App = () => (
   <Router>
-    <Nav />
+    <Route path='/' component={Nav} />
     <Container maxWidth='lg' className={styles.app}>
       <h1>Chocolate Labradors</h1>
       <Route exact path='/' component={Home} />
