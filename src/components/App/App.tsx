@@ -4,6 +4,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import theme from '../../Theme';
 import Facts from '../Facts/Facts';
+import Footer from '../Footer/Footer';
 import Home from '../Home/Home';
 import Nav from '../Nav/Nav';
 import styles from './App.module.scss';
@@ -17,6 +18,7 @@ const App = () => (
         <Route exact path='/' component={Home} />
         <Route path='/fun-facts' component={Facts} />
       </Container>
+      <Footer />
     </Router>
   </ThemeProvider>
 );

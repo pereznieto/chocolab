@@ -4,4 +4,27 @@
     background-color: rgba(lightgray, 0.2);
     text-align: center;
   }
+
+  .hero {
+    display: flex;
+    min-height: 450px;
+    padding: 30px 40px 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    .title {
+      position: relative;
+      color: #fff;
+      font-size: 40px;
+
+      &::after {
+        content: 'Fun facts';
+        position: absolute;
+        top: -2px;
+        left: -2px;
+        color: black;
+      }
+    }
+  }
 }
