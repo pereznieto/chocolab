@@ -7,7 +7,7 @@ const Home = () => (
     <Grid container spacing={4}>
       <Grid item xs={12}>
         <div className={styles.hero}>
-          <h2>Home</h2>
+          <h2 className={styles.title}>Home</h2>
         </div>
       </Grid>
       <Grid item xs={12} sm={6}>
