@@ -7,3 +7,26 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+h1 {
+  font-size: 40px;
+}
+
+h2,
+h3 {
+  margin: 0 0 10px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 18px;
+  margin: 0 0 10px;
+  line-height: 25px;
+}

@@ -1,8 +1,29 @@
 .home {
-  .item {
-    padding: 10px;
-    border: 2px solid lightgray;
-    border-radius: 7px;
-    text-align: center;
+  .hero {
+    display: flex;
+    min-height: 450px;
+    padding: 30px 40px 40px;
+    background-image: url('./lab_1.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    @media screen and (max-width: 660px) {
+      justify-content: flex-end;
+    }
+
+    @media screen and (max-width: 600px) {
+      font-size: 20px;
+    }
+  }
+
+  @for $i from 1 through 4 {
+    .puppy#{$i} {
+      background-image: url(./puppy_#{$i}.jpeg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      min-height: 200px;
+    }
   }
 }

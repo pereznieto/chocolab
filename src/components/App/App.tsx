@@ -10,7 +10,7 @@ const App = () => (
   <Router>
     <Route path='/' component={Nav} />
     <Container maxWidth='lg' className={styles.app}>
-      <h1>Chocolate Labradors</h1>
+      <h1 className={styles.title}>Chocolate Labradors 🐾</h1>
       <Route exact path='/' component={Home} />
       <Route path='/fun-facts' component={Facts} />
     </Container>
