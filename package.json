@@ -1,7 +1,16 @@
 {
   "name": "chocolab",
   "version": "0.1.0",
+  "author": {
+    "name": "Fernando Macias Pereznieto",
+    "email": "m@cias.pro",
+    "url": "http://ma.cias.pro/"
+  },
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
   "dependencies": {
     "@material-ui/core": "^4.4.2",
     "@types/jest": "24.0.18",
@@ -15,12 +24,6 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.2",
     "typescript": "3.6.3"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
