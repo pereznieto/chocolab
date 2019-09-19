@@ -7,28 +7,40 @@ const Footer = () => (
     <Container maxWidth='lg'>
       <p>
         <strong>Disclaimer:</strong> Content does not belong to me. It was retrieved from{' '}
-        <a href='https://www.thelabradorsite.com/chocolate-labrador/' target='_blank'>
+        <a
+          href='https://www.thelabradorsite.com/chocolate-labrador/'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
           https://www.thelabradorsite.com/chocolate-labrador/
         </a>
       </p>
       <p>
         All images are full of cuteness and copyrght-free, sourced from{' '}
-        <a href='https://unsplash.com/s/photos/labrador' target='_blank'>
+        <a
+          href='https://unsplash.com/s/photos/labrador'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
           Unslpash
         </a>
         .
       </p>
       <p>
         Built using{' '}
-        <a href='https://create-react-app.dev' target='_blank'>
+        <a href='https://create-react-app.dev' target='_blank' rel='noopener noreferrer'>
           React
         </a>{' '}
         and{' '}
-        <a href='https://material-ui.com' target='_blank'>
+        <a href='https://material-ui.com' target='_blank' rel='noopener noreferrer'>
           Material UI
         </a>
         . Please feel free to see how this site was built:{' '}
-        <a href='https://github.com/pereznieto/chocolab' target='_blank'>
+        <a
+          href='https://github.com/pereznieto/chocolab'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
           source code on GitHub
         </a>
         .
