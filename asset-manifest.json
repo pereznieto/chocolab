@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chocolab/static/css/main.743b0227.chunk.css",
+    "main.js": "/chocolab/static/js/main.0c412898.chunk.js",
+    "main.js.map": "/chocolab/static/js/main.0c412898.chunk.js.map",
+    "runtime-main.js": "/chocolab/static/js/runtime-main.ffcb44c9.js",
+    "runtime-main.js.map": "/chocolab/static/js/runtime-main.ffcb44c9.js.map",
+    "static/js/2.c1b7a0b6.chunk.js": "/chocolab/static/js/2.c1b7a0b6.chunk.js",
+    "static/js/2.c1b7a0b6.chunk.js.map": "/chocolab/static/js/2.c1b7a0b6.chunk.js.map",
+    "index.html": "/chocolab/index.html",
+    "precache-manifest.4ab2894aa68956b9a07b7c8b74453b11.js": "/chocolab/precache-manifest.4ab2894aa68956b9a07b7c8b74453b11.js",
+    "service-worker.js": "/chocolab/service-worker.js",
+    "static/css/main.743b0227.chunk.css.map": "/chocolab/static/css/main.743b0227.chunk.css.map",
+    "static/media/Facts.module.scss": "/chocolab/static/media/dog_2.51dfec12.jpeg",
+    "static/media/Home.module.scss": "/chocolab/static/media/puppy_4.28833f52.jpeg"
+  }
+}
