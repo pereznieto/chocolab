@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5af4ca1.chunk.css",
-    "main.js": "/static/js/main.250afbd7.chunk.js",
-    "main.js.map": "/static/js/main.250afbd7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b117cd76.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b117cd76.js.map",
-    "static/js/2.c1b7a0b6.chunk.js": "/static/js/2.c1b7a0b6.chunk.js",
-    "static/js/2.c1b7a0b6.chunk.js.map": "/static/js/2.c1b7a0b6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f4af76fd19b6ca52a007f371e1d9b92d.js": "/precache-manifest.f4af76fd19b6ca52a007f371e1d9b92d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b5af4ca1.chunk.css.map": "/static/css/main.b5af4ca1.chunk.css.map",
-    "static/media/Facts.module.scss": "/static/media/dog_2.51dfec12.jpeg",
-    "static/media/Home.module.scss": "/static/media/puppy_4.28833f52.jpeg"
+    "main.css": "/chocolab/static/css/main.743b0227.chunk.css",
+    "main.js": "/chocolab/static/js/main.422abfb5.chunk.js",
+    "main.js.map": "/chocolab/static/js/main.422abfb5.chunk.js.map",
+    "runtime-main.js": "/chocolab/static/js/runtime-main.ffcb44c9.js",
+    "runtime-main.js.map": "/chocolab/static/js/runtime-main.ffcb44c9.js.map",
+    "static/js/2.c1b7a0b6.chunk.js": "/chocolab/static/js/2.c1b7a0b6.chunk.js",
+    "static/js/2.c1b7a0b6.chunk.js.map": "/chocolab/static/js/2.c1b7a0b6.chunk.js.map",
+    "index.html": "/chocolab/index.html",
+    "precache-manifest.07f4f198454197d4450e38e1e0fb5164.js": "/chocolab/precache-manifest.07f4f198454197d4450e38e1e0fb5164.js",
+    "service-worker.js": "/chocolab/service-worker.js",
+    "static/css/main.743b0227.chunk.css.map": "/chocolab/static/css/main.743b0227.chunk.css.map",
+    "static/media/Facts.module.scss": "/chocolab/static/media/dog_2.51dfec12.jpeg",
+    "static/media/Home.module.scss": "/chocolab/static/media/puppy_4.28833f52.jpeg"
   }
 }
