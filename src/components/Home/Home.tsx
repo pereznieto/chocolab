@@ -53,18 +53,11 @@ const Home = () => (
           </p>
         </div>
       </Grid>
-      <Grid item xs={6} sm={3}>
-        <div className={styles.puppy1} />
-      </Grid>
-      <Grid item xs={6} sm={3}>
-        <div className={styles.puppy2} />
-      </Grid>
-      <Grid item xs={6} sm={3}>
-        <div className={styles.puppy3} />
-      </Grid>
-      <Grid item xs={6} sm={3}>
-        <div className={styles.puppy4} />
-      </Grid>
+      {[1, 2, 3, 4].map(puppyNumber => (
+        <Grid item xs={6} sm={3}>
+          <div className={styles[`puppy${puppyNumber}`]} />
+        </Grid>
+      ))}
     </Grid>
   </div>
 );
