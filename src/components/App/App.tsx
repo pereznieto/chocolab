@@ -11,7 +11,7 @@ import styles from './App.module.scss';
 
 const App = () => (
   <ThemeProvider theme={theme}>
-    <Router>
+    <Router basename='/chocolab'>
       <Route path='/' component={Nav} />
       <Container maxWidth='lg' className={styles.app}>
         <h1 className={styles.title}>
