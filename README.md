@@ -2,6 +2,7 @@
 
 ## What is this
 This is a sample two-page web app showcasing the beauty of Chocolate Labradors.
+It is responsive across desktop and mobile screen sizes and devices.
 
 ## Technologies used
 
