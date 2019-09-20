@@ -1,3 +1,10 @@
+# Chocolab 🐾
+
+## What is this
+This is a sample two-page web app showcasing the beauty of Chocolate Labradors.
+
+## Technologies used
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
